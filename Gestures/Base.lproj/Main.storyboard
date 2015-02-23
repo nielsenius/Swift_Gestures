@@ -34,6 +34,7 @@
                             </view>
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.80000001192092896" blue="0.40000000596046448" alpha="1" colorSpace="calibratedRGB"/>
+                        <gestureRecognizers/>
                         <constraints>
                             <constraint firstAttribute="centerY" secondItem="bQs-Uc-Qav" secondAttribute="centerY" id="UWM-14-ksR"/>
                             <constraint firstAttribute="centerX" secondItem="bQs-Uc-Qav" secondAttribute="centerX" id="zwW-0N-PTp"/>
@@ -67,6 +68,7 @@
                     </connections>
                 </panGestureRecognizer>
             </objects>
+            <point key="canvasLocation" x="433" y="306"/>
         </scene>
     </scenes>
 </document>
